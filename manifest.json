@@ -1,7 +1,7 @@
 {
     "name": "Mi PWA de Gestión de Tareas",
     "short_name": "Gestor PWA", // 12 - 15 caracteres
-    "start_url": "/",
+    "start_url": "/PWA-Mixta",
     "display": "standalone", // fullscreen, minimal-ui, browser
     "background_color": "#1A202C",
     "theme_color": "#4A90E2",
